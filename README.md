@@ -17,10 +17,10 @@ An app for music streaming made with Flutter
 * Equalizer support
 * Lyrics support
 * No Advertisment
-* No Login required
+* Firebase authentication(Optional)
 * Piped playlist integration
-
-
+* Search Filter
+* Shazam intent (External Recognition)
 
 
 
