@@ -1,7 +1,7 @@
 
 
 # Melodify
-An app for music streaming made with Flutter(Currently support Android only).
+An app for music streaming made with Flutter
 
 # Features
 * Ability to play song from Ytube/Ytube Music.
