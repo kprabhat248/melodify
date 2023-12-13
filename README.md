@@ -3,6 +3,21 @@
 # Melodify
 An app for music streaming made with Flutter
 
+#Screenshots
+
+![WhatsApp Image 2023-12-13 at 19 55 20](https://github.com/kprabhat248/melodify/assets/67147805/5499a05c-6c92-46a9-9c6b-2e4460db817a)
+![WhatsApp Image 2023-12-13 at 19 55 21](https://github.com/kprabhat248/melodify/assets/67147805/cb79b177-f8f5-4228-94b0-4de30c420579)
+![WhatsApp Image 2023-12-13 at 19 55 22](https://github.com/kprabhat248/melodify/assets/67147805/61635323-25bb-4bf9-852e-5221ee39f1b7)
+![WhatsApp Image 2023-12-13 at 19 55 23](https://github.com/kprabhat248/melodify/assets/67147805/6f913f80-7004-4f74-870e-37a5ef29ab17)
+![WhatsApp Image 2023-12-13 at 19 55 24](https://github.com/kprabhat248/melodify/assets/67147805/9e225682-5737-40d4-a0f4-aa2a714beeef)
+
+
+
+
+
+
+
+
 # Features
 * Ability to play song from Ytube/Ytube Music.
 * Song cache while playing
