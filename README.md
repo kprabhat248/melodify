@@ -12,6 +12,7 @@ An app for music streaming made with Flutter
 ![WhatsApp Image 2023-12-13 at 19 55 24](https://github.com/kprabhat248/melodify/assets/67147805/9e225682-5737-40d4-a0f4-aa2a714beeef)
 
 
+![WhatsApp Image 2023-12-13 at 19 55 21 (2)](https://github.com/kprabhat248/melodify/assets/67147805/fcec3456-fe3f-45fc-a119-954ed94156a6)
 
 
 
